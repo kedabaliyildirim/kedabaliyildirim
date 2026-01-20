@@ -1,4 +1,7 @@
-# Hi there, I'm Kürşat Edabalı Yıldırım 👋
+# Hi there, I'm Kürşat Edabalı Yıldırım 👋 This is my personal porfolio 
+```
+https://kedabaliyildirim.github.io/portfolio/
+```
 
 ## DevOps Engineer | ML Engineer | Infrastructure Automation Specialist
 
